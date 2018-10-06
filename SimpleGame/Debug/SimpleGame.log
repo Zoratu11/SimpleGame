@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (MapEditor.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Tilemap.cpp
+c:\gamedev\simplegame\simplegame\tilemap.cpp(15): warning C4018: '<': signed/unsigned mismatch
+c:\gamedev\simplegame\simplegame\tilemap.cpp(29): warning C4018: '<': signed/unsigned mismatch
+c:\gamedev\simplegame\simplegame\tilemap.cpp(35): warning C4018: '<': signed/unsigned mismatch
+c:\gamedev\simplegame\simplegame\tilemap.cpp(56): warning C4018: '<': signed/unsigned mismatch
+c:\gamedev\simplegame\simplegame\tilemap.cpp(74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SimpleGame.vcxproj -> C:\GameDev\SimpleGame\Debug\SimpleGame.exe

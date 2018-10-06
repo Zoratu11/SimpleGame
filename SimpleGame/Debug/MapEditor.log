@@ -1,0 +1,6 @@
+﻿  Editor.cpp
+c:\gamedev\simplegame\mapeditor\editor.cpp(47): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\gamedev\simplegame\mapeditor\editor.cpp(50): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\gamedev\simplegame\mapeditor\editor.cpp(53): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\gamedev\simplegame\mapeditor\editor.cpp(56): warning C4305: 'argument': truncation from 'double' to 'float'
+  MapEditor.vcxproj -> C:\GameDev\SimpleGame\Debug\MapEditor.exe

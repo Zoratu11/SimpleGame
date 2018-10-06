@@ -1,0 +1,14 @@
+{ "columns":2,
+ "image":"..\/GoblinKeepTileset32x32.png",
+ "imageheight":250,
+ "imagewidth":136,
+ "margin":0,
+ "name":"Test",
+ "spacing":0,
+ "tilecount":6,
+ "tiledversion":"1.2.0",
+ "tileheight":64,
+ "tilewidth":64,
+ "type":"tileset",
+ "version":1.2
+}
